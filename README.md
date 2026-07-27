@@ -90,13 +90,28 @@ If you wish to re-fine-tune the model from scratch or train it on new data, plea
 Here are some real examples of Faqeeh AI answering everyday legal questions:
 
 **1. Asking about Family Law (حقوق الزوجة بعد الطلاق؟):**
+
+
 ![Demo 1](assets/demo1.png)
 
+
+
 **2. Asking about Labor Law (حقوق العامل لو اتفصل؟):**
+
+
+
+
 ![Demo 2](assets/demo2.png)
 
+
+
 **3. Asking about Contracts (شروط صحة عقد البيع؟):**
+
+
+
 ![Demo 3](assets/demo3.png)
+
+
 
 ---
 
