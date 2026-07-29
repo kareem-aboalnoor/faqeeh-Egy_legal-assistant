@@ -92,6 +92,7 @@ Watch **Faqeeh AI** in action as it seamlessly answers everyday legal questions 
 <video src="assets/demo.mp4" width="100%" controls>
   Your browser does not support the video tag.
 </video>
+
 <!-- Failed to upload "Demo.mp4" -->
 
 ---
