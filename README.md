@@ -162,7 +162,10 @@ notebooks/01_fine_tuning.ipynb
 
 
 
-https://github.com/user-attachments/assets/b21f6c69-efa0-4f33-9e79-3259fb61fb8c
+
+
+https://github.com/user-attachments/assets/5b55dda7-360c-4ad4-80df-78a217245793
+
 
 
 
