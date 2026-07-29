@@ -160,13 +160,24 @@ notebooks/01_fine_tuning.ipynb
 
 # 📸 Demo
 
+Here are some real examples of Faqeeh AI answering everyday legal questions:
+
+**1. Asking about Family Law (حقوق الزوجة بعد الطلاق؟):**
 
 
+![Demo 1](assets/demo1.png)
 
 
-https://github.com/user-attachments/assets/5b55dda7-360c-4ad4-80df-78a217245793
+**2. Asking about Labor Law (حقوق العامل لو اتفصل؟):**
 
 
+![Demo 2](assets/demo2.png)
+
+
+**3. Asking about Contracts (شروط صحة عقد البيع؟):**
+
+
+![Demo 3](assets/demo3.png)
 
 
 ---
