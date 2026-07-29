@@ -87,31 +87,11 @@ If you wish to re-fine-tune the model from scratch or train it on new data, plea
 
 # 📸 Demo
 
-Here are some real examples of Faqeeh AI answering everyday legal questions:
+Watch **Faqeeh AI** in action as it seamlessly answers everyday legal questions across different domains (Family Law, Labor Law, and Contracts) in real-time, providing highly accurate legal reasoning based on retrieved Egyptian laws:
 
-**1. Asking about Family Law (حقوق الزوجة بعد الطلاق؟):**
-
-
-![Demo 1](assets/demo1.png)
-
-
-
-**2. Asking about Labor Law (حقوق العامل لو اتفصل؟):**
-
-
-
-
-![Demo 2](assets/demo2.png)
-
-
-
-**3. Asking about Contracts (شروط صحة عقد البيع؟):**
-
-
-
-![Demo 3](assets/demo3.png)
-
-
+<video src="assets/demo.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ---
 
