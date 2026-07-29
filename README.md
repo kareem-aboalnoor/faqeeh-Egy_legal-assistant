@@ -160,13 +160,11 @@ notebooks/01_fine_tuning.ipynb
 
 # 📸 Demo
 
-Watch **Faqeeh AI** in action as it seamlessly answers everyday legal questions across Family Law, Labor Law, Contracts, and other legal domains while grounding every answer in retrieved Egyptian legislation.
 
-```html
-<video src="assets/demo.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
-```
+
+https://github.com/user-attachments/assets/b21f6c69-efa0-4f33-9e79-3259fb61fb8c
+
+
 
 ---
 
